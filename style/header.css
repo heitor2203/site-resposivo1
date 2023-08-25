@@ -32,7 +32,7 @@ align-items: center;
     top: 100%;
 }
 
-.container-botao:checkeds~.Lista-menu{
+.container-botao:checkeds~.container-menu{
     display: block;
 }
 
