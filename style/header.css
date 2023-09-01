@@ -32,6 +32,11 @@ align-items: center;
     top: 100%;
 }
 
+.menu-item, .menu-item-título {
+    padding: lem;
+    background-color: var(--branco);
+}
+
 .container-botao:checkeds~.container-menu{
     display: block;
 }
