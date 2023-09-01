@@ -33,7 +33,7 @@ align-items: center;
 }
 
 .menu-item, .menu-item-título {
-    padding: lem;
+    padding: 1em;
     background-color: var(--branco);
 }
 
