@@ -38,7 +38,7 @@ align-items: center;
     background-color: var(--branco);
 }
 
-.container-botao:checkeds~.container-menu{
+.container-botao:checked~.container-menu{
     display: block;
 }
 
