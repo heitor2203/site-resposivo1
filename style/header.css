@@ -30,6 +30,7 @@ align-items: center;
     display: none;
     position: absolute;
     top: 100%;
+    width: 60vw;
 }
 
 .menu-item, .menu-item-título {
